@@ -1,0 +1,10 @@
+git clone
+git status
+git add
+git commit -m "write message here"
+git push
+git pull
+git add -A
+
+if you do "git commit" without -m message then it will go in full message black screen.
+escape :wq to save it
